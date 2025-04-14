@@ -1,7 +1,7 @@
 ##### Hi, I'm Abedulrahman Al-Ghandour:
 
 - 🎓 Computer science graduate from Zarqa university.
-- :test_tube: Full-Stack developer with the most common frontend & backend languages.
+- :test_tube: Backend Software Engineer with the most common backend languages.
 - :speech_balloon: Ask me about frontend, backend, problem-solving.
 - :mailbox: You can reach me with the links below
 
