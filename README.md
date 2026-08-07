@@ -1,4 +1,4 @@
-### Abdulrahman Al-Ghandour
+### Abedulrahman Al-Ghandour
 
 Senior Software Engineer at Ard Group, working across the whole system: application code, the data underneath it, and the infrastructure it runs on.
 
